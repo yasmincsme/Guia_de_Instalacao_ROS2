@@ -5,7 +5,8 @@
 - Ao instalar o ROS 2, é recomendado instalar a versão de Suporte de Longo Prazo (LTS), pois ela oferece uma base estável para o seu desenvolvimento.
 - Antes da instalação, é crucial verificar a compatibilidade da versão do ROS 2 com a versão do seu sistema operacional. Essas informações podem ser encontradas na [documentação oficial](https://www.ros.org/reps/rep-2000.html#humble-hawksbill-may-2022-may-2027) da versão do ROS 2 que você pretende instalar. Garantir a compatibilidade ajudará a evitar problemas que possam surgir de versões incompatíveis.
 - Além disso, é importante verificar a compatibilidade da sua versão do Gazebo com a versão do ROS 2 que você pretende instalar. Você pode verificar isso [aqui](https://gazebosim.org).
-# Instalação do ROS 2
+
+## Instalação do ROS 2
 
 ### Configurar Localidade
 
