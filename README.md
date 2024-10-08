@@ -1,4 +1,4 @@
-<h4 align="center">Guia de Instalação do ROS 2</h4>
+<h1 align="center">Guia de Instalação do ROS 2</h1>
 
 
 > Olá, pessoal! Este guia tem como objetivo principal simplificar a instalação do ROS 2 em desktops e placas. Notei que há uma quantidade significativa de conteúdo online, mas a maioria está em inglês. Por isso, decidi traduzir o material e compilar as melhores referências que encontrei. Espero que gostem e, em caso de dúvidas, podem olhar as referências ou entrar em contato comigo via email pelo endereço cordeiro.yasmin@ieee.org!
