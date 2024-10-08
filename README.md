@@ -114,7 +114,7 @@ ros2 run demo_nodes_py listener
 
 Você verá o *Talker* dizendo que está publicando mensagens e o *Listener* dizendo "Eu ouvi essas mensagens". Isso verifica que as APIs de C++ e Python estão funcionando corretamente e que a instalação do ROS 2 Humble foi concluída com sucesso.  
 
-# Bônus
+## Bônus
 
 O `.bashrc` é um arquivo de configuração usado pelo Bash (um dos shells mais comuns no Linux e no macOS). Ele é executado sempre que uma nova sessão de terminal interativa é aberta. O arquivo `.bashrc` contém comandos e variáveis de ambiente que configuram o ambiente de trabalho do usuário.
 
